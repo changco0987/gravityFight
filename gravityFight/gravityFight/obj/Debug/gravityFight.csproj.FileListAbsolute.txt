@@ -1,0 +1,10 @@
+C:\Users\William Changco\source\repos\gravityFight\gravityFight\obj\Debug\gravityFight.Form1.resources
+C:\Users\William Changco\source\repos\gravityFight\gravityFight\obj\Debug\gravityFight.Properties.Resources.resources
+C:\Users\William Changco\source\repos\gravityFight\gravityFight\obj\Debug\gravityFight.csproj.GenerateResource.cache
+C:\Users\William Changco\source\repos\gravityFight\gravityFight\obj\Debug\gravityFight.csproj.CoreCompileInputs.cache
+C:\Users\William Changco\source\repos\gravityFight\gravityFight\bin\Debug\gravityFight.exe.config
+C:\Users\William Changco\source\repos\gravityFight\gravityFight\bin\Debug\gravityFight.exe
+C:\Users\William Changco\source\repos\gravityFight\gravityFight\bin\Debug\gravityFight.pdb
+C:\Users\William Changco\source\repos\gravityFight\gravityFight\obj\Debug\gravityFight.exe
+C:\Users\William Changco\source\repos\gravityFight\gravityFight\obj\Debug\gravityFight.pdb
+C:\Users\William Changco\source\repos\gravityFight\gravityFight\obj\Debug\gravityFight.CustomMsgBox.resources
